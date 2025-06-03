@@ -1,1 +1,1 @@
-# Astroide Game with Python
+# Astroids Game with Python
